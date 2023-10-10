@@ -1,7 +1,7 @@
 //Finding Factors of fiven number
 
 import java.util.Scanner;
-class HelloWorld {
+class Factors {
     public static void main(String[] args) {
         System.out.println("Enter Number");
         Scanner sc=new Scanner(System.in);
